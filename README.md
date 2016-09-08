@@ -2,12 +2,12 @@
 
 A fun toy example of using ML to find fake technical patterns in stock market data. 
 
-Requirements are the following
+## Requirements are the following: 
     1. tensorflow
     2. sklear
-    3.  numpy
-    4.  pandas
-    5.  TwitterAPI
+    3. numpy
+    4. pandas
+    5. TwitterAPI
 
 You must enter in your twitter credentials in twitter_api.py
 

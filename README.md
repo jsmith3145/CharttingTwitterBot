@@ -1,5 +1,7 @@
 # CharttingTwitterBot
 
+A fun toy example of using ML to find fake technical patterns in stock market data. 
+
 Requirements are the following
     - tensorflow
     - sklear

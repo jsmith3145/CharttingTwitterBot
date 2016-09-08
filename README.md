@@ -1,1 +1,28 @@
 # CharttingTwitterBot
+
+Requirements are the following
+    -tensorflow
+    -sklear
+    -numpy
+    -pandas
+    -TwitterAPI
+
+You must enter in your twitter credentials in twitter_api.py
+
+
+Make sure you have the file path setup(or change the root):
+
+-plots
+    -results
+        -posted_plots
+        -prediction
+        -train
+    -current (most recent prices to make predictions on)
+    -random (random snapshots for historical training data)
+    -template (where the random head and shoulders are stored)
+
+
+
+You will want to add more tickers to the main.py
+ticker list. ~30 should be a good start, they must
+be pulled from yahoo.
